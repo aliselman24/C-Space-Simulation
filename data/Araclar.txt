@@ -1,0 +1,5 @@
+Voyager1#Dünya#Jüpiter#01.01.2024 00:00:00#620
+Voyager2#Dünya#Satürn#01.01.2024 00:00:00#1275
+NewHorizons#Dünya#Plüton#01.01.2024 00:00:00#4800
+Cassini#Satürn#Dünya#15.06.2024 12:00:00#1275
+Juno#Dünya#Jüpiter#20.08.2024 18:00:00#620

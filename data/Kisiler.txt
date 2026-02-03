@@ -1,0 +1,7 @@
+Elon Musk#52#20000#Voyager1
+Jeff Bezos#59#15000#Voyager1
+Richard Branson#73#10000#Voyager2
+Neil Armstrong#82#5000#Voyager2
+Buzz Aldrin#93#7000#NewHorizons
+Yuri Gagarin#34#12000#NewHorizons
+Sally Ride#61#9000#Cassini
